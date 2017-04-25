@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "args",
-    "description": "api documentation for [args (v2.4.1)](https://github.com/leo/args#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-args.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-args) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-args.svg)](https://travis-ci.org/npmdoc/node-npmdoc-args)",
+    "description": "#### basic api documentation for  [args (v2.6.0)](https://github.com/leo/args#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-args.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-args) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-args.svg)](https://travis-ci.org/npmdoc/node-npmdoc-args)",
     "devDependencies": {
         "args": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
